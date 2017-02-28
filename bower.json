@@ -1,0 +1,21 @@
+{
+  "name": "pri.scaleblocks",
+  "version": "1.0.0",
+  "description": "Scale block helper",
+  "main": "ScaleBlocks.js",
+  "authors": [
+    "Yuri Petrov (theredos7@gmail.com)"
+  ],
+  "license": "BSD-2-Clause",
+  "homepage": "https://github.com/redos8/pri.scaleblocks",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}

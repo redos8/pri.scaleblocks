@@ -1,0 +1,24 @@
+{
+  "name": "pri.scaleblocks",
+  "version": "1.0.0",
+  "description": "Scale block helper",
+  "main": "ScaleBlocks.js",
+  "scripts": {
+    "build": "babel ScaleBlocks.js -o scaleblocks.es5.js --presets es2015",
+    "dev": "babel ScaleBlocks.js -o scaleblocks.es5.js -w --presets es2015",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/redos8/pri.scaleblocks.git"
+  },
+  "author": "Yuri Petrov (theredos7@gmail.com)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/redos8/pri.scaleblocks/issues"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.23.0",
+    "babel-preset-es2015": "^6.22.0"
+  }
+}
