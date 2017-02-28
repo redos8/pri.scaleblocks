@@ -6,7 +6,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
 /**
  * Scale blocks depends of conditions
- * @author Yuriy Petrov at Haymarket Media
+ * @author Yuriy Petrov (theredos7@gmail.com) at Haymarket Media
  */
 
 var ScaleBlocks = function () {
