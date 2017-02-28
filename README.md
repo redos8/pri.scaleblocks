@@ -1,7 +1,7 @@
 # pri.scaleblocks
 
-## It doesn't need to call somewhere. Loads when document ready.
-## If you have to control it anyway, use `window.disableAutoScaleBlocks` property.
+> It doesn't need to call somewhere. Loads when document ready.
+> If you have to control it anyway, use `window.disableAutoScaleBlocks` property.
 
 ### Simple usage
 ```html
